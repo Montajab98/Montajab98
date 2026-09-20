@@ -1,49 +1,35 @@
-# Hi, I'm Montajab AlHussein 
+# Hi, I'm Montajab Al-Hussein 👋
 
-AI Engineer | LLM Apps · RAG Systems · AI Agents  
-Dubai, UAE 🇦🇪  
-Head of AI & Robotics Department @ Apex Educational Services  
+**AI Engineer focused on applied Generative AI, RAG, and automation.**
 
----
+I build AI applications and prototypes that summarize text, retrieve information from documents, and connect tools through automated workflows.
 
-##  What I Build
+My projects span LLM applications, knowledge retrieval, image generation, and computer vision.
 
--  **LLM Applications** — intelligent pipelines using OpenAI, Claude, Gemini
--  **RAG Systems** — retrieval-augmented generation with vector databases
--  **AI Agents** — autonomous agents with tool use and memory
--  **Computer Vision** — deep learning models for real-world applications
--  **AI Automation** — workflows and intelligent systems
+## Selected Projects
 
----
-
-##  Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
-
----
-
-##  Featured Projects
-
-| Project | Description | Tech |
+| Project | What it does | Technologies |
 |---|---|---|
-|  [Violence Detection System](#) | CNN-based model to detect violent content in multimedia | Python · CNN · OpenCV |
-|  RAG Chatbot *(coming soon)* | Document Q&A using RAG architecture | LangChain · FAISS · OpenAI |
-|  AI Agent *(coming soon)* | Autonomous agent with tool use | LangChain · Python |
+| [Banking Engineering Intelligence Copilot](https://github.com/Montajab98/banking-engineering-intelligence-copilot-n8n) | An n8n-based RAG prototype for retrieving information across banking requirements, API specifications, tests, defects, and incident records. | n8n, Qdrant, local LLMs |
+| [AI Document Summarizer](https://github.com/Montajab98/ai-document-summarizer) | Summarizes pasted text in English or Arabic, with adjustable length and downloadable output. | Python, Streamlit, Gemini API |
+| [AI Image Automation](https://github.com/Montajab98/comfyui-n8n-image-automation) | Connects an n8n webhook to ComfyUI to generate images from text prompts and retrieve the results. | n8n, ComfyUI, SDXL |
+| [Violent Content Detection](https://github.com/Montajab98/violence-detection-cnn) | A university graduation project exploring CNN-based violent image classification and screen monitoring. | Python, TensorFlow, OpenCV, Tkinter |
 
----
+## Technologies Used Across My Projects
 
-##  GitHub Stats
+- **Programming:** Python
+- **LLM applications:** Google Gemini API, Streamlit
+- **Retrieval:** Qdrant, embeddings, RAG workflows
+- **Automation:** n8n, webhooks, HTTP APIs
+- **Image generation:** ComfyUI, SDXL
+- **Computer vision:** TensorFlow, Keras, OpenCV
 
-![Montajab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Montajab98&show_icons=true&theme=tokyonight&hide_border=true)
+## Current Development Focus
 
----
+Strengthening the engineering behind my AI prototypes: Python backend development with FastAPI, automated testing, Docker packaging, and retrieval evaluation.
 
-##  Connect With Me
+## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moontajab/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:moontajab@outlook.com)
+Based in the UAE and interested in AI engineering opportunities involving LLM applications, document intelligence, and automation.
+
+[LinkedIn](https://www.linkedin.com/in/moontajab/) · [Email](mailto:moontajab@outlook.com)
